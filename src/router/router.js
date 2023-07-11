@@ -6,6 +6,7 @@ const Routeur = () => {
   return (
     <BrowserRouter>
       <Routes>
+
         <Route path="*" element={<NoMatch />} />
       </Routes>
     </BrowserRouter>
