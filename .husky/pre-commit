@@ -1,0 +1,7 @@
+#!/bin/sh
+. "$(dirname "$0")/_/husky.sh"
+ 
+if ! npm run pre-commit; then
+  echo "❌ Échec de la validation du code. Veuillez corriger les erreurs avant de commiter."
+  exit 1
+fi
