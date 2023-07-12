@@ -23,11 +23,7 @@ const Navigation = ({ children }) => {
     }
   };
 
-  return (
-    <>
-
-    </>
-  );
+  return <></>;
 };
 
 export default Navigation;

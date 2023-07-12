@@ -12,15 +12,15 @@
   },
   {
     "id": 2,
-    "question": "Qui est le fondateur de SpaceX ?",
+    "question": "SpaceX a été fondée en 2002  avec l’objectif ultime de permettre aux gens de vivre sur d’autres planètes ?",
     "choices": {
-      "a": "Jeff Bezos",
-      "b": "Elon Musk",
-      "c": "Bill Gates",
-      "d": "Mark Zuckerberg"
+      "a": "Vrai",
+      "b": "Faux"
     },
-    "answer": "b"
+    "answer": "a"
   },
+
+
   {
     "id": 3,
     "question": "Quel est le nom de la fusée réutilisable de SpaceX ?",
@@ -34,14 +34,12 @@
   },
   {
     "id": 4,
-    "question": "Quelle est la première entreprise privée à avoir envoyé des astronautes dans l'espace ?",
+    "question": "SpaceX a pour objectif de permettre aux gens de vivre sur Mars ?",
     "choices": {
-      "a": "Boeing",
-      "b": "NASA",
-      "c": "SpaceX",
-      "d": "Virgin Galactic"
+      "a": "Vrai",
+      "b": "Faux"
     },
-    "answer": "c"
+    "answer": "a"
   },
   {
     "id": 5,
