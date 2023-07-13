@@ -1,6 +1,6 @@
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
-import NoMatch from './NoMatch';
 
+import NoMatch from './NoMatch';
 import SpaceXMember from '../pages/SpaceXMember';
 import SpaceXHistoryList from '../pages/SpaceXHistory';
 import SpaceXAboutPage from '../pages/SpaceXAbout';
@@ -28,8 +28,7 @@ const Routeur = () => {
           />
           <Route path="/space-x-rockets" element={<SpaceXRocketsPage />} />
           <Route path="/space-x-rockets/:id" element={<SpaceXRocketPage />} />
-          <Route path="/quiz" element={<Quiz />} />
-
+          <Route path="/space-x-quiz" element={<Quiz />} />
         </Routes>
       </Navigation>
     </BrowserRouter>

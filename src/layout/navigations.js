@@ -44,7 +44,6 @@ const Navigation = ({ children }) => {
     }
   };
 
-
   return (
     <>
       <header>
