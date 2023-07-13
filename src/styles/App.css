@@ -53,12 +53,11 @@ progress[value]::-webkit-progress-bar {
 }
 
 progress[value]::-webkit-progress-value {
-  background-color: #4CAF50;
+  background-color: #4caf50;
   border-radius: 20px;
 }
 
 progress[value]::-moz-progress-bar {
-  background-color: #4CAF50;
+  background-color: #4caf50;
   border-radius: 20px;
 }
-
