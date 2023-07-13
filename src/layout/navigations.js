@@ -51,8 +51,6 @@ const Navigation = ({ children }) => {
           <div class="px-4 sm:px-6 lg:px-8">
             <nav class="relative flex items-center justify-between h-16 lg:h-20">
               <div class="hidden lg:flex lg:items-center lg:space-x-10">
-                
-
                 <Link to="/space-x-member">
                   <a title="" class="text-base font-medium text-black">
                     Crew
