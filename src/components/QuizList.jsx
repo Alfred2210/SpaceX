@@ -1,13 +1,11 @@
 import React, { useState, useEffect } from 'react';
 
-const QuizList = ({ question, choices, answer, changeNextQuestion}) => {
+const QuizList = ({ question, choices, answer, changeNextQuestion }) => {
   const [selectedChoice, setSelectedChoice] = useState('');
   const [answered, setAnswered] = useState(false);
   const [isCorrect, setIsCorrect] = useState(false);
-  const [score, setScore] = useState(0);
-  const [finalScore, setFinalScore] = useState(0);
   const [timeLeft, setTimeLeft] = useState(30);
-  const [isLastQuestion, setLastQuestion] = useState(false);
+
   const handleChoiceClick = (choice) => {
     if (!answered) {
       setSelectedChoice(choice);
@@ -18,20 +16,14 @@ const QuizList = ({ question, choices, answer, changeNextQuestion}) => {
         setIsCorrect(false);
       }
       setAnswered(true);
-
     }
   };
 
   const handleNextQuestion = () => {
-    if (isCorrect) {
-      setScore(score + 1);
-    }
     resetQuiz();
-
-    changeNextQuestion();
+    changeNextQuestion(isCorrect);
     setTimeLeft(30);
   };
-
 
   const resetQuiz = () => {
     setSelectedChoice('');
@@ -81,20 +73,12 @@ const QuizList = ({ question, choices, answer, changeNextQuestion}) => {
             <p>{isCorrect ? 'Reponse correcte' : 'Reponse incorrecte'}</p>
           </div>
         )}
-        <p>Score: {score}</p>
         <button
-            className="bg-white hover:bg-gray-100 text-gray-800 font-semibold py-2 px-4 border border-gray-400 rounded shadow mt-4"
-            onClick={handleNextQuestion}
+          className="bg-white hover:bg-gray-100 text-gray-800 font-semibold py-2 px-4 border border-gray-400 rounded shadow mt-4"
+          onClick={handleNextQuestion}
         >
           Suivant
         </button>
-        {isLastQuestion && (
-
-          <div className="mt-4">
-            <p>Score final: {finalScore}</p>
-            <p> {finalScore >= 5 ? 'Bravo' : 'Dommage'}</p>
-          </div>
-        )}
       </div>
     </div>
   );
