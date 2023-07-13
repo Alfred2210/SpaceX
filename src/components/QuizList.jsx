@@ -58,8 +58,10 @@ const QuizList = ({ question, choices, answer, changeNextQuestion }) => {
             <button
               key={key}
               className={`bg-white shadow-md text-gray-800 font-bold p-4 m-2 rounded w-64 ${
-                answered && isCorrect && selectedChoice === choice
+                answered && isCorrect && selectedChoice === parseInt(key)
                   ? 'bg-green-500'
+                  : answered && !isCorrect && selectedChoice === parseInt(key)
+                  ? 'bg-red-500'
                   : ''
               }`}
               onClick={() => handleChoiceClick(choice)}

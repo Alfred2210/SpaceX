@@ -51,18 +51,18 @@ const Navigation = ({ children }) => {
           <div class="px-4 sm:px-6 lg:px-8">
             <nav class="relative flex items-center justify-between h-16 lg:h-20">
               <div class="hidden lg:flex lg:items-center lg:space-x-10">
-                <Link to="/">
-                  <a title="" class="text-base font-medium text-black">
-                    About
-                  </a>
-                </Link>
+                
 
                 <Link to="/space-x-member">
                   <a title="" class="text-base font-medium text-black">
                     Crew
                   </a>
                 </Link>
-
+                <Link to="/space-x-lastest-launch">
+                  <a title="" class="text-base font-medium text-black">
+                    Lastest Launch
+                  </a>
+                </Link>
                 <Link to="/space-x-launches-history">
                   <a title="" class="text-base font-medium text-black">
                     Launches
