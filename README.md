@@ -1,5 +1,5 @@
 # Web site URL
-https://space-x-ipssi.netlify.app/space-x-quiz
+https://space-x-ipssi.netlify.app/
 
 # Getting Started with Create React App
 
