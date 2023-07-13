@@ -1,5 +1,5 @@
 import React from 'react';
-import NotFound404 from '../components/pages/page_404';
+import NotFound404 from '../pages/404';
 
 const NoMatch = () => {
   return (
