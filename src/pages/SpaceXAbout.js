@@ -3,7 +3,11 @@ import SpaceXRoadster from '../components/SpaceXRoadster';
 import '../styles/SpaceXAbout.css';
 
 const SpaceXAboutPage = () => {
-  return <><SpaceXAbout/></>;
+  return (
+    <>
+      <SpaceXAbout />
+    </>
+  );
 };
 
 export default SpaceXAboutPage;

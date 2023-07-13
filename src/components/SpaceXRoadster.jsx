@@ -22,11 +22,19 @@ const SpaceXRoadster = () => {
     <div className="flex justify-left items-end ">
       {roadsterData.length > 0 && (
         <div className="">
-          <h2 className="text-2xl font-bold mb-4 text-white">{roadsterData[0].name}</h2>
-          <p className="text-white">Launch Date: {roadsterData[0].launch_date_utc}</p>
-          <p className="text-white">Launch Mass: {roadsterData[0].launch_mass_kg} kg</p>
+          <h2 className="text-2xl font-bold mb-4 text-white">
+            {roadsterData[0].name}
+          </h2>
+          <p className="text-white">
+            Launch Date: {roadsterData[0].launch_date_utc}
+          </p>
+          <p className="text-white">
+            Launch Mass: {roadsterData[0].launch_mass_kg} kg
+          </p>
           <p className="text-white">Orbit Type: {roadsterData[0].orbit_type}</p>
-          <p className="text-white">Earth Distance: {roadsterData[0].earth_distance_km} km</p>
+          <p className="text-white">
+            Earth Distance: {roadsterData[0].earth_distance_km} km
+          </p>
         </div>
       )}
     </div>

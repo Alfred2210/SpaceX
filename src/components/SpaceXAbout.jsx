@@ -40,11 +40,9 @@ const SpaceXAbout = () => {
                   {spaceXAbout.summary}.
                 </p>
               </div>
-              
             </div>
           </div>
-          <SpaceXRoadster/>
-
+          <SpaceXRoadster />
         </div>
       </section>
     </>
