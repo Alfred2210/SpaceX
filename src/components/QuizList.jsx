@@ -71,9 +71,11 @@ const QuizList = ({ question, choices, answer, changeNextQuestion }) => {
           ))}
         </div>
         {answered && (
-          <div className="mt-4">
-            <p>{isCorrect ? 'Reponse correcte' : 'Reponse incorrecte'}</p>
-          </div>
+            <div className="mt-4">
+              <p className={isCorrect ? 'text-green-500' : 'text-red-500'}>
+                {isCorrect ? 'Reponse correcte' : 'Reponse incorrecte'}
+              </p>
+            </div>
         )}
         <button
           className="bg-white hover:bg-gray-100 text-gray-800 font-semibold py-2 px-4 border border-gray-400 rounded shadow mt-4"
