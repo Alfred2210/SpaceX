@@ -1,0 +1,457 @@
+[
+  {
+    "quiz": 1,
+    "questions": [
+      {
+        "id": 1,
+        "question": "Quelle est la mission de SpaceX ?",
+        "choices": {
+          "a": "Exploration de l'espace",
+          "b": "Fabrication de voitures électriques",
+          "c": "Production de smartphones",
+          "d": "Construction de ponts"
+        },
+        "answer": "a"
+      },
+      {
+        "id": 2,
+        "question": "SpaceX a été fondée en 2002  avec l’objectif ultime de permettre aux gens de vivre sur d’autres planètes ?",
+        "choices": {
+          "a": "Vrai",
+          "b": "Faux"
+        },
+        "answer": "a"
+      },
+
+      {
+        "id": 3,
+        "question": "Quel est le nom de la fusée réutilisable de SpaceX ?",
+        "choices": {
+          "a": "Falcon Heavy",
+          "b": "Dragon",
+          "c": "Starship",
+          "d": "Saturn V"
+        },
+        "answer": "c"
+      },
+      {
+        "id": 4,
+        "question": "SpaceX a pour objectif de permettre aux gens de vivre sur Mars ?",
+        "choices": {
+          "a": "Vrai",
+          "b": "Faux"
+        },
+        "answer": "a"
+      },
+      {
+        "id": 5,
+        "question": "Où se trouve le principal site de lancement de SpaceX ?",
+        "choices": {
+          "a": "Kennedy Space Center",
+          "b": "Cape Canaveral",
+          "c": "Vandenberg Air Force Base",
+          "d": "Boca Chica"
+        },
+        "answer": "d"
+      },
+      {
+        "id": 6,
+        "question": "Quelle est la plus puissante fusée actuellement en service de SpaceX ?",
+        "choices": {
+          "a": "Falcon 1",
+          "b": "Falcon 9",
+          "c": "Falcon Heavy",
+          "d": "Starship"
+        },
+        "answer": "c"
+      },
+      {
+        "id": 7,
+        "question": "Quelle est la première entreprise privée à avoir atterri avec succès une fusée sur une barge en mer ?",
+        "choices": {
+          "a": "NASA",
+          "b": "Roscosmos",
+          "c": "Blue Origin",
+          "d": "SpaceX"
+        },
+        "answer": "d"
+      },
+      {
+        "id": 8,
+        "question": "Quel est le projet d'Elon Musk visant à coloniser Mars ?",
+        "choices": {
+          "a": "Mars Base Alpha",
+          "b": "Mars Colony",
+          "c": "Mars One",
+          "d": "Starship"
+        },
+        "answer": "d"
+      },
+      {
+        "id": 9,
+        "question": "Quelle est la première entreprise privée à avoir lancé un satellite en orbite ?",
+        "choices": {
+          "a": "Boeing",
+          "b": "NASA",
+          "c": "SpaceX",
+          "d": "Virgin Galactic"
+        },
+        "answer": "c"
+      },
+      {
+        "id": 10,
+        "question": "Quel est le nom du vaisseau spatial de SpaceX destiné au transport d'astronautes ?",
+        "choices": {
+          "a": "Falcon 9",
+          "b": "Dragon",
+          "c": "Crew Dragon",
+          "d": "Starship"
+        },
+        "answer": "c"
+      }
+    ]
+  },
+  {
+    "quiz": 2,
+    "questions": [
+      {
+        "id": 1,
+        "question": "Qu'est-ce que l'espace",
+        "choices": {
+          "a": " L'espace est un vide",
+          "b": " L'espace est un lieu de vie",
+          "c": " L'espace est un lieu de travail",
+          "d": " L'espace est un lieu de vacances"
+        },
+        "answer": "a"
+      },
+      {
+        "id": 2,
+        "question": "Quelle est la température dans l'espace ?",
+        "choices": {
+          "a": " -270°C",
+          "b": " -2700°C",
+          "c": " -27000°C",
+          "d": " -270000°C"
+        },
+        "answer": "a"
+      },
+      {
+        "id": 3,
+        "question": "Sur quelle planète se trouve le plus grand volcan du système solaire ?",
+        "choices": {
+          "a": " Mars",
+          "b": " Vénus",
+          "c": " Mercure",
+          "d": " Jupiter"
+        },
+        "answer": "b"
+      },
+      {
+        "id": 4,
+        "question": "Quelle est la planète la plus proche du Soleil ?",
+        "choices": {
+          "a": " Mercure",
+          "b": " Vénus",
+          "c": " Terre",
+          "d": " Mars"
+        },
+        "answer": "a"
+      },
+      {
+        "id": 5,
+        "question": "SpaceX a-t-elle déjà envoyé des cargaisons vers Mars ?",
+        "choices": {
+          "a": " Oui",
+          "b": " Non"
+        },
+        "answer": "a"
+      },
+      {
+        "id": 6,
+        "question": "Quelle est la planète la plus grande du système solaire ?",
+        "choices": {
+          "a": " Jupiter",
+          "b": " Saturne",
+          "c": " Uranus",
+          "d": " Neptune"
+        },
+        "answer": "a"
+      },
+      {
+        "id": 7,
+        "question": "Quelle est la planète la plus proche de la Terre ?",
+        "choices": {
+          "a": " Mars",
+          "b": " Vénus",
+          "c": " Mercure",
+          "d": " Jupiter"
+        },
+        "answer": "b"
+      },
+      {
+        "id": 8,
+        "question": "Quelle est la planète la plus éloignée du Soleil ?",
+        "choices": {
+          "a": " Mars",
+          "b": " Vénus",
+          "c": " Mercure",
+          "d": " Jupiter"
+        },
+        "answer": "d"
+      },
+      {
+        "id": 9,
+        "question": "Qu'est-ce que l'Agence spatiale européenne (ESA) ?",
+        "choices": {
+          "a": " Une agence spatiale",
+          "b": " Une agence spatiale européenne",
+          "c": " Une agence spatiale américaine",
+          "d": " Une agence spatiale russe"
+        },
+        "answer": "b"
+      },
+      {
+        "id": 10,
+        "question": "Qu'est-ce qu'une orbite géostationnaire ?",
+        "choices": {
+          "a": " Une orbite qui reste toujours au-dessus du même point de la Terre",
+          "b": " Une orbite qui reste toujours au-dessus du même point de la Lune",
+          "c": " Une orbite qui reste toujours au-dessus du même point de Mars",
+          "d": " Une orbite qui reste toujours au-dessus du même point de Jupiter"
+        },
+        "answer": "d"
+      }
+    ]
+  },
+  {
+    "quiz": 3,
+    "questions": [
+      {
+        "id": 1,
+        "question": "Comment SpaceX prévoit-elle de résoudre les problèmes de ravitaillement sur Mars ?",
+        "choices": {
+          "a": "En envoyant plusieurs vaisseaux Starship sur Mars pour créer une infrastructure de ravitaillement permettant de produire du carburant sur place.",
+          "b": "En utilisant des navettes spatiales pour ravitailler régulièrement les colonies sur Mars depuis la Terre.",
+          "c": "En développant des technologies de recyclage des ressources sur Mars pour minimiser les besoins en ravitaillement.",
+          "d": "En négociant des accords de ravitaillement avec d'autres pays ayant des ressources spatiales."
+        },
+        "answer": "a"
+      },
+      {
+        "id": 2,
+        "question": "Quelle est la différence entre une fusée réutilisable et une fusée jetable ?",
+        "choices": {
+          "a": "Une fusée réutilisable peut être utilisée pour plusieurs lancements, tandis qu'une fusée jetable est conçue pour être utilisée une seule fois.",
+          "b": "Une fusée réutilisable est plus petite qu'une fusée jetable.",
+          "c": "Une fusée réutilisable utilise des technologies plus avancées qu'une fusée jetable.",
+          "d": "Une fusée réutilisable nécessite moins de carburant qu'une fusée jetable."
+        },
+        "answer": "a"
+      },
+      {
+        "id": 3,
+        "question": "Qu'est-ce que le vaisseau Crew Dragon de SpaceX ?",
+        "choices": {
+          "a": "Un vaisseau cargo utilisé pour transporter des marchandises vers l'ISS.",
+          "b": "Un vaisseau spatial conçu pour le tourisme spatial.",
+          "c": "Un vaisseau habité capable de transporter des astronautes vers et depuis l'ISS.",
+          "d": "Un vaisseau expérimental utilisé pour la recherche scientifique en microgravité."
+        },
+        "answer": "c"
+      },
+      {
+        "id": 4,
+        "question": "Quelle est la destination prévue pour la première mission habitée de SpaceX vers Mars ?",
+        "choices": {
+          "a": "Une colonie lunaire établie par SpaceX.",
+          "b": "La Station spatiale internationale (ISS).",
+          "c": "Une base sur la Lune établie par la NASA.",
+          "d": "La surface de Mars."
+        },
+        "answer": "d"
+      },
+      {
+        "id": 5,
+        "question": "Quelle est la capacité de charge utile de la fusée Falcon Heavy de SpaceX ?",
+        "choices": {
+          "a": "Environ 10 tonnes.",
+          "b": "Environ 20 tonnes.",
+          "c": "Environ 50 tonnes.",
+          "d": "Environ 100 tonnes."
+        },
+        "answer": "c"
+      },
+      {
+        "id": 6,
+        "question": "Quelle est la première mission de SpaceX à avoir envoyé des astronautes vers l'ISS ?",
+        "choices": {
+          "a": "Mission Apollo 11.",
+          "b": "Mission Artemis.",
+          "c": "Mission Demo-2.",
+          "d": "Mission Inspiration4."
+        },
+        "answer": "c"
+      },
+      {
+        "id": 7,
+        "question": "Quel est le nom du premier touriste spatial qui a volé à bord de la capsule Crew Dragon de SpaceX en septembre 2021 ?",
+        "choices": {
+          "a": "Elon Musk.",
+          "b": "Richard Branson.",
+          "c": "Jeff Bezos.",
+          "d": "Jared Isaacman."
+        },
+        "answer": "d"
+      },
+      {
+        "id": 8,
+        "question": "Quel est le nom du programme de satellites de SpaceX visant à fournir une couverture Internet mondiale ?",
+        "choices": {
+          "a": "Project Blue Origin.",
+          "b": "Project Starlink.",
+          "c": "Project Artemis.",
+          "d": "Project Voyager."
+        },
+        "answer": "b"
+      },
+      {
+        "id": 9,
+        "question": "Quel est le nom du vaisseau spatial de SpaceX qui a réalisé le premier vol habité vers l'ISS en mai 2020 ?",
+        "choices": {
+          "a": "Crew Dragon.",
+          "b": "Starship.",
+          "c": "Falcon Heavy.",
+          "d": "Falcon 9."
+        },
+        "answer": "a"
+      },
+      {
+        "id": 10,
+        "question": "Quelle est la taille approximative du vaisseau Starship de SpaceX ?",
+        "choices": {
+          "a": "Environ 50 mètres de hauteur.",
+          "b": "Environ 100 mètres de hauteur.",
+          "c": "Environ 150 mètres de hauteur.",
+          "d": "Environ 200 mètres de hauteur."
+        },
+        "answer": "c"
+      }
+    ]
+  },
+  {
+    "quiz": 4,
+    "questions": [
+      {
+        "id": 1,
+        "question": "Quelle est la différence entre une planète et une étoile ?",
+        "choices": {
+          "a": "Une étoile est un corps céleste qui produit sa propre lumière, tandis qu'une planète ne produit pas de lumière et orbite autour d'une étoile.",
+          "b": "Une planète est un corps céleste qui produit sa propre lumière, tandis qu'une étoile ne produit pas de lumière et orbite autour d'une planète.",
+          "c": "Une planète et une étoile sont essentiellement les mêmes choses, mais avec des tailles différentes.",
+          "d": "Une planète est un corps céleste constitué de gaz, tandis qu'une étoile est constituée de roche et de métal."
+        },
+        "answer": "a"
+      },
+      {
+        "id": 2,
+        "question": "Qu'est-ce que la ceinture d'astéroïdes ?",
+        "choices": {
+          "a": "Une zone de l'espace où se trouvent de nombreux astéroïdes en orbite autour du Soleil, située entre Mars et Jupiter.",
+          "b": "Une ceinture portée par les astronautes lors de sorties dans l'espace.",
+          "c": "Une région de l'espace où se trouvent des étoiles en formation.",
+          "d": "Une ceinture portée par les astronautes pour se protéger des radiations spatiales."
+        },
+        "answer": "a"
+      },
+      {
+        "id": 3,
+        "question": "Qu'est-ce qu'une galaxie ?",
+        "choices": {
+          "a": "Un objet céleste qui tourne autour d'une étoile.",
+          "b": "Une région de l'espace où se trouvent de nombreuses étoiles.",
+          "c": "Un groupe de systèmes solaires en orbite autour d'une planète centrale.",
+          "d": "Un vaste ensemble d'étoiles, de gaz et de poussière maintenu ensemble par la gravité."
+        },
+        "answer": "d"
+      },
+      {
+        "id": 4,
+        "question": "Quelle est la plus grande planète du système solaire ?",
+        "choices": {
+          "a": "La Terre.",
+          "b": "Vénus.",
+          "c": "Mars.",
+          "d": "Jupiter."
+        },
+        "answer": "d"
+      },
+      {
+        "id": 5,
+        "question": "Qu'est-ce que l'apesanteur ?",
+        "choices": {
+          "a": "Un état de l'espace où il n'y a aucune force gravitationnelle.",
+          "b": "Un état où la gravité est plus forte que sur Terre.",
+          "c": "Un état où la gravité est plus faible que sur Terre.",
+          "d": "Un état où la gravité est égale à celle sur Terre."
+        },
+        "answer": "c"
+      },
+      {
+        "id": 6,
+        "question": "Qu'est-ce qu'une comète ?",
+        "choices": {
+          "a": "Un corps céleste constitué principalement de glace, de roche et de poussière qui orbite autour du Soleil.",
+          "b": "Un type d'étoile qui émet une lumière intense et régulière.",
+          "c": "Un type de météore qui brûle en entrant dans l'atmosphère terrestre.",
+          "d": "Un satellite naturel qui orbite autour d'une planète."
+        },
+        "answer": "a"
+      },
+      {
+        "id": 7,
+        "question": "Quelle est la distance moyenne entre la Terre et le Soleil ?",
+        "choices": {
+          "a": "Environ 1 million de kilomètres.",
+          "b": "Environ 10 millions de kilomètres.",
+          "c": "Environ 100 millions de kilomètres.",
+          "d": "Environ 1 milliard de kilomètres."
+        },
+        "answer": "c"
+      },
+      {
+        "id": 8,
+        "question": "Quelle est la durée approximative d'une année sur Mars ?",
+        "choices": {
+          "a": "Environ 24 heures.",
+          "b": "Environ 365 jours.",
+          "c": "Environ 687 jours.",
+          "d": "Environ 1 000 jours."
+        },
+        "answer": "c"
+      },
+      {
+        "id": 9,
+        "question": "Qu'est-ce que la photosphère du Soleil ?",
+        "choices": {
+          "a": "La surface visible du Soleil.",
+          "b": "La région de l'espace où se trouvent les planètes du système solaire.",
+          "c": "La couche atmosphérique supérieure du Soleil.",
+          "d": "La région de l'espace située au-delà de l'orbite de Pluton."
+        },
+        "answer": "a"
+      },
+      {
+        "id": 10,
+        "question": "Qu'est-ce que la mission Apollo 11 ?",
+        "choices": {
+          "a": "La première mission spatiale habitée vers Mars.",
+          "b": "La première mission spatiale habitée vers la Lune.",
+          "c": "La première mission spatiale habitée vers l'ISS.",
+          "d": "La première mission spatiale habitée vers Vénus."
+        },
+        "answer": "b"
+      }
+    ]
+  }
+]
